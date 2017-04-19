@@ -31,6 +31,10 @@ class Components extends React.Component {
           name: 'Checkboxes',
           to: '/components/checkboxes/',
         },
+        {
+          name: 'Textareas',
+          to: '/components/textareas/',
+        },
       ],
     };
   }
